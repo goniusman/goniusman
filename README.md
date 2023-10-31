@@ -44,6 +44,13 @@ Moreover, my present employer offers telephone services.  I constantly learn abo
 
 I want to offer myself as a candidate for the Full Stack Developer position.
 
+### Numbers
+![goniusman's Stats](https://github-readme-stats.vercel.app/api?username=goniusman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![goniusman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=goniusman&theme=darcula&hide_border=true)
+
+![goniusmans's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goniusman&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
 
 ### Where to find me
 
