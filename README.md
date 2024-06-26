@@ -29,7 +29,7 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
-I am a Sr. Software Engineer at Novotel Limited. I have over 5+ years of solid industrial experience with MERN, .NET, the LAMP stack, and other related technologies.
+I am a Sr. Software Engineer at Skill Quotient. I have over 5+ years of solid industrial experience with MERN, .NET, the LAMP stack, and other related technologies.
 
 I always try to follow best practices, such as the SOLID principle, and keep my code clean. I normally follow the n-layered architecture with the generic repository pattern.
 
