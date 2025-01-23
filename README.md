@@ -29,13 +29,33 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
-I am a Sr. Software Engineer at Skill Quotient. I have over 10+ years of solid industrial experience with MERN, .NET, the LAMP stack, and other related technologies.
+Senior Software Engineer with over 10 years of experience in full-stack development, cloud computing, and DevOps, specializing in delivering scalable, high-performance web applications. Proven expertise in managing both frontend and backend systems across multiple tech stacks. 
 
-I always try to follow best practices, such as the SOLID principle, and keep my code clean. I normally follow the n-layered architecture with the generic repository pattern.
+In-Stack:
+• MERN, LAMP, MEAN, .NET – delivering robust applications with efficient code management.
 
-Moreover, my present employer offers telephone services.  I constantly learn about the newest architectural patterns, such mediator patterns, microservices, and clean architecture, to keep up with the latest trends. I have to work with a variety of technologies as a full stack developer, including front-end, back-end, databases, and other auxiliary technologies.
+Front-End:
+• Proficient in React, Next.js, React Native (Expo), and Vanilla JavaScript.
+• Extensive experience with various JavaScript and CSS libraries, ensuring responsive and interactive UI/UX design.
 
-I want to offer myself as a candidate for the Full Stack Developer position.
+Back-End:
+• Skilled in JavaScript, Node.js, PHP, and C#.
+• Expertise in frameworks such as .NET, Express.js, and NestJS for server-side development.
+
+CMS:
+• Expertise in WordPress development, creating custom themes and plugins for content management solutions.
+
+Database:
+• SQL: Experienced in MySQL, SQL Server.
+• NoSQL: Proficient with MongoDB, Redis.
+• Graph Databases: Hands-on experience with GraphQL, Apollo for API and data management.
+
+DevOps & Cloud Computing:
+• Extensive experience with Linux, Docker, Kubernetes, and Terraform.
+• Skilled in Azure Cloud, Azure Portal, with a focus on managing cloud infrastructure and services.
+• Expertise in cloud deployments, including Azure DevOps for continuous integration and delivery.
+• Experienced in setting up CI/CD pipelines using GitHub Actions, GitOps, and ArgoCD for automated, scalable deployments.
+• Proficient in Azure Resource Manager (ARM) templates, Azure Virtual Machines, and other cloud resources for robust cloud infrastructure management.
 
 ### Numbers
 ![goniusman's Stats](https://github-readme-stats.vercel.app/api?username=goniusman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
