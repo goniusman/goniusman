@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,7 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/GitHub%20Actions-F7DF1E?style=flat-square&logo=GitHub%20Actions&logoColor=green)
 ![Linux OS](https://img.shields.io/badge/linuxos-000000?style=flat-square&logo=apple&logoColor=white)
-![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) -->
 
 
 Senior Backend Engineer and DevOps Specialist with over 10 years of experience designing, building, and scaling high-availability distributed systems. Highly specialized in backend engineering utilizing Node.js, NestJS, and TypeScript, with a deep focus on cloud-native architectures, containerization, and platform automation. Driven by a passion for clean code, solid design patterns, and bridging the gap between robust backend development and efficient infrastructure operations.
@@ -36,15 +36,15 @@ Throughout my career, I have successfully delivered software solutions across te
 On the operations side, I treat infrastructure as code and prioritize seamless developer experiences. I bring hands-on expertise in administering AWS and Azure environments, optimizing containerized deployments via Docker and Kubernetes, and orchestrating automated CI/CD pipelines. By integrating end-to-end monitoring, logging, and alerting systems, I focus on maximizing system observability, maintaining 99.9% uptime, and accelerating deployment velocity for global engineering teams. 
 
 ### Numbers
-![goniusman's Stats](https://github-readme-stats.vercel.app/api?username=goniusman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+<!--  ![goniusman's Stats](https://github-readme-stats.vercel.app/api?username=goniusman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![goniusman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=goniusman&theme=darcula&hide_border=true)
 
-![goniusmans's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goniusman&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![goniusmans's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goniusman&theme=darcula&show_icons=true&hide_border=true&layout=compact) -->
 
 
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmangonitd/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/osmangonitd)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/osmangonitd)
+<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/osmangonitd)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/osmangonitd) -->
