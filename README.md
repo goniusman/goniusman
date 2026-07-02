@@ -29,33 +29,11 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
-Senior Software Engineer with over 10 years of experience in full-stack development, cloud computing, and DevOps, specializing in delivering scalable, high-performance web applications. Proven expertise in managing both frontend and backend systems across multiple tech stacks. 
+Senior Backend Engineer and DevOps Specialist with over 10 years of experience designing, building, and scaling high-availability distributed systems. Highly specialized in backend engineering utilizing Node.js, NestJS, and TypeScript, with a deep focus on cloud-native architectures, containerization, and platform automation. Driven by a passion for clean code, solid design patterns, and bridging the gap between robust backend development and efficient infrastructure operations.
 
-In-Stack:
-• MERN, LAMP, MEAN, .NET – delivering robust applications with efficient code management.
+Throughout my career, I have successfully delivered software solutions across telecom, enterprise, and SaaS sectors. Most notably, I collaborated on the backend architecture for a massive internet-based calling application, independently delivering critical subscription and roaming features to support 2 million registered and 1.4 million active users. My technical leadership spans designing secure e-commerce platforms, integrating complex enterprise billing APIs, and directing cross-functional engineering initiatives from concept to production deployment.  
 
-Front-End:
-• Proficient in React, Next.js, React Native (Expo), and Vanilla JavaScript.
-• Extensive experience with various JavaScript and CSS libraries, ensuring responsive and interactive UI/UX design.
-
-Back-End:
-• Skilled in JavaScript, Node.js, PHP, and C#.
-• Expertise in frameworks such as .NET, Express.js, and NestJS for server-side development.
-
-CMS:
-• Expertise in WordPress development, creating custom themes and plugins for content management solutions.
-
-Database:
-• SQL: Experienced in MySQL, SQL Server.
-• NoSQL: Proficient with MongoDB, Redis.
-• Graph Databases: Hands-on experience with GraphQL, Apollo for API and data management.
-
-DevOps & Cloud Computing:
-• Extensive experience with Linux, Docker, Kubernetes, and Terraform.
-• Skilled in Azure Cloud, Azure Portal, with a focus on managing cloud infrastructure and services.
-• Expertise in cloud deployments, including Azure DevOps for continuous integration and delivery.
-• Experienced in setting up CI/CD pipelines using GitHub Actions, GitOps, and ArgoCD for automated, scalable deployments.
-• Proficient in Azure Resource Manager (ARM) templates, Azure Virtual Machines, and other cloud resources for robust cloud infrastructure management.
+On the operations side, I treat infrastructure as code and prioritize seamless developer experiences. I bring hands-on expertise in administering AWS and Azure environments, optimizing containerized deployments via Docker and Kubernetes, and orchestrating automated CI/CD pipelines. By integrating end-to-end monitoring, logging, and alerting systems, I focus on maximizing system observability, maintaining 99.9% uptime, and accelerating deployment velocity for global engineering teams. 
 
 ### Numbers
 ![goniusman's Stats](https://github-readme-stats.vercel.app/api?username=goniusman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
