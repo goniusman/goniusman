@@ -35,8 +35,8 @@ Throughout my career, I have successfully delivered software solutions across te
 
 On the operations side, I treat infrastructure as code and prioritize seamless developer experiences. I bring hands-on expertise in administering AWS and Azure environments, optimizing containerized deployments via Docker and Kubernetes, and orchestrating automated CI/CD pipelines. By integrating end-to-end monitoring, logging, and alerting systems, I focus on maximizing system observability, maintaining 99.9% uptime, and accelerating deployment velocity for global engineering teams. 
 
-### Numbers
-<!--  ![goniusman's Stats](https://github-readme-stats.vercel.app/api?username=goniusman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+<!-- ### Numbers
+  ![goniusman's Stats](https://github-readme-stats.vercel.app/api?username=goniusman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![goniusman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=goniusman&theme=darcula&hide_border=true)
 
